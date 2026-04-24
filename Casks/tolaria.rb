@@ -21,8 +21,8 @@ cask "tolaria" do
 
   zap trash: [
     "~/Library/Application Support/Tolaria",
-    "~/Library/Caches/com.refactoringhq.tolaria",
-    "~/Library/Preferences/com.refactoringhq.tolaria.plist",
-    "~/Library/Saved Application State/com.refactoringhq.tolaria.savedState",
+    "~/Library/Caches/club.refactoring.tolaria",
+    "~/Library/Preferences/club.refactoring.tolaria.plist",
+    "~/Library/Saved Application State/club.refactoring.tolaria.savedState",
   ]
 end
